@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Augustine
+![steen](https://github.com/Steentoons/steentoons/blob/main/augustine-kirumba.png)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steentoons&show_icons=true&theme=radical)
 
